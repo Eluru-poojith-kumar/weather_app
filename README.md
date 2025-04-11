@@ -1,24 +1,17 @@
-# Welcome to your Lovable project
+# Welcome to weather_project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/cdb8f1dd-3fa8-4d69-9e30-743125aaf954
+**URL**: https://be7e-2401-4900-1cb8-7a17-2101-bea1-f76-1a81.ngrok-free.app
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/cdb8f1dd-3fa8-4d69-9e30-743125aaf954) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, By opening Visual studio and accesing all files. you can run through Command prompt with node.js, By using npm install and npm run dev. it automatically produces the local host and it can be copy and paste it in your web server.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+The only requirement is having Node.js & npm installed.
+or else you can follow below given steps. 
 
 Follow these steps:
 
@@ -28,7 +21,6 @@ git clone <YOUR_GIT_URL>
 
 # Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
-
 # Step 3: Install the necessary dependencies.
 npm i
 
@@ -62,12 +54,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/cdb8f1dd-3fa8-4d69-9e30-743125aaf954) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+https://be7e-2401-4900-1cb8-7a17-2101-bea1-f76-1a81.ngrok-free.app
 
-Yes it is!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
