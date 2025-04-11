@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://be7e-2401-4900-1cb8-7a17-2101-bea1-f76-1a81.ngrok-free.app
+**URL**: https://weather-app-hazel-nu-27.vercel.app/
 
 ## How can I edit this code?
 
@@ -55,6 +55,6 @@ This project is built with:
 ## How can I deploy this project?
 
 
-https://be7e-2401-4900-1cb8-7a17-2101-bea1-f76-1a81.ngrok-free.app
+https://weather-app-hazel-nu-27.vercel.app/
 
 
