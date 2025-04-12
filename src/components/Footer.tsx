@@ -10,7 +10,7 @@ const Footer = () => {
         </p>
         <p className="text-center text-gray-500 dark:text-gray-400 mt-1">
           <a 
-            href="https://linkedin.com/in/product-manager-accelerator" 
+            href="https://www.linkedin.com/school/pmaccelerator/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="hover:text-blue-500 transition-colors"
